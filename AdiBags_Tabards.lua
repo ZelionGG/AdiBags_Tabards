@@ -4,7 +4,7 @@
 -- Copyright (C) 2022 ZelionGG
 
 local AdiBags = LibStub("AceAddon-3.0"):GetAddon("AdiBags")
-local tabardsFilter = AdiBags:RegisterFilter("Tabards", 95)
+local tabardsFilter = AdiBags:RegisterFilter("Tabards", 96)
 tabardsFilter.uiName = "|cffffffffTabard|r";
 tabardsFilter.uiDesc = "Put Tabards in a dedicated section."
 
