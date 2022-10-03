@@ -1,0 +1,9 @@
+## Interface: 30400
+## X-Interface: 30400
+## Title: AdiBags - Tabards
+## Notes: Adds a Tabards section to AdiBags.
+## Author: ZelionGG
+## Version: 1.0
+## Dependencies: AdiBags
+
+AdiBags_Tabards.lua

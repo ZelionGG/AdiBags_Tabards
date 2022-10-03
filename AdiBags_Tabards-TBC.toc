@@ -1,0 +1,9 @@
+## Interface: 20504
+## X-Interface: 20504
+## Title: AdiBags - Tabards
+## Notes: Adds a Tabards section to AdiBags.
+## Author: ZelionGG
+## Version: 1.0
+## Dependencies: AdiBags
+
+AdiBags_Tabards.lua
