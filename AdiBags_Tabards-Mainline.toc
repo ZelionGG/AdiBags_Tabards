@@ -1,10 +1,11 @@
-## Interface: 90207
-## X-Interface: 90207
+## Interface: 100000
+## X-Interface: 100000
 ## Title: AdiBags - Tabards
 ## Notes: Adds a Tabards section to AdiBags.
 ## Author: ZelionGG
-## Version: 1.0.1
+## Version: 1.0.2
 ## Dependencies: AdiBags
 ## X-Curse-Project-ID: 684835
+## X-Wago-ID: pkNMa0Nz
 
 AdiBags_Tabards.lua

@@ -3,8 +3,9 @@
 ## Title: AdiBags - Tabards
 ## Notes: Adds a Tabards section to AdiBags.
 ## Author: ZelionGG
-## Version: 1.0.1
+## Version: 1.0.2
 ## Dependencies: AdiBags
 ## X-Curse-Project-ID: 684835
+## X-Wago-ID: pkNMa0Nz
 
 AdiBags_Tabards.lua
