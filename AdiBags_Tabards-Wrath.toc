@@ -1,10 +1,12 @@
-## Interface: 30400
+## Interface: 30401
+## X-Interface: 30401
 ## Title: AdiBags - Tabards
 ## Notes: Adds a Tabards section to AdiBags.
 ## Author: ZelionGG
-## Version: 1.1
+## Version: 1.1.1
 ## Notes: https://github.com/ZelionGG/AdiBags_Tabards
 ## Dependencies: AdiBags
 ## X-Curse-Project-ID: 684835
 ## X-Wago-ID: pkNMa0Nz
+
 AdiBags_Tabards-Classic.lua
