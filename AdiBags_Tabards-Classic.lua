@@ -1,5 +1,5 @@
 -- AdiBags_Tabards
--- Tabards section for AdiBags (Classic Versions - Vanilla/TBC/Wrath)
+-- Tabards section for AdiBags (Classic Versions - Vanilla/Wrath)
 --
 -- Copyright (C) 2022 ZelionGG
 
