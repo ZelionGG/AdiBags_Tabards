@@ -1,10 +1,8 @@
 # AdiBags_Tabards
 
-## [1.1.2](https://github.com/ZelionGG/AdiBags_Tabards/tree/v1.1.2) (2023-03-24)
+## [1.1.3](https://github.com/ZelionGG/AdiBags_Tabards/tree/v1.1.3) (2023-04-26)
 
-[Full Changelog](https://github.com/ZelionGG/AdiBags_Tabards/compare/v1.1.1...v1.1.2) [Previous Releases](https://github.com/ZelionGG/AdiBags_Tabards/releases)
+[Full Changelog](https://github.com/ZelionGG/AdiBags_Tabards/compare/v1.1.2...v1.1.3) [Previous Releases](https://github.com/ZelionGG/AdiBags_Tabards/releases)
 
-- Retail TOC update for patch 10.0.7.
-- Classic Wrath TOC update for patch 3.4.1.
-
-  (Fixed the version incoherence)
+- Removed TBC TOC file
+- Removed unused lua file
