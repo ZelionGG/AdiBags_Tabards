@@ -1,7 +1,7 @@
 -- AdiBags_Tabards
 -- Tabards section for AdiBags (Retail Version)
 --
--- Copyright (C) 2022 ZelionGG
+-- Copyright (C) 2023 ZelionGG
 
 local AdiBags = LibStub("AceAddon-3.0"):GetAddon("AdiBags")
 local tabardsFilter = AdiBags:RegisterFilter("Tabards", 95)
