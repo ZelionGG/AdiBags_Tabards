@@ -1,8 +1,7 @@
 # AdiBags_Tabards
 
-## [1.1.3](https://github.com/ZelionGG/AdiBags_Tabards/tree/v1.1.3) (2023-04-26)
+## [1.2](https://github.com/ZelionGG/AdiBags_Tabards/tree/v1.2) (2023-05-09)
 
-[Full Changelog](https://github.com/ZelionGG/AdiBags_Tabards/compare/v1.1.2...v1.1.3) [Previous Releases](https://github.com/ZelionGG/AdiBags_Tabards/releases)
+[Full Changelog](https://github.com/ZelionGG/AdiBags_Tabards/compare/v1.1.3...v1.2) [Previous Releases](https://github.com/ZelionGG/AdiBags_Tabards/releases)
 
-- Removed TBC TOC file
-- Removed unused lua file
+- Updated TOC and Changelog for Retail 10.1 patch.
