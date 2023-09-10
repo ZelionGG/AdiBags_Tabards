@@ -9,7 +9,7 @@ tabardsFilter.uiName = "|cffffffffTabard|r";
 tabardsFilter.uiDesc = "Put Tabards in a dedicated section."
 
 function tabardsFilter:Filter(slotData)
-	local itemLink = GetContainerItemID(slotData.bag, slotData.slot)
+	local itemLink = C_Container.GetContainerItemID(slotData.bag, slotData.slot)
 	if (itemLink) then
 		local isTabard = C_Item.GetItemInventoryTypeByID(itemLink);
 		if (isTabard == 19) then 
