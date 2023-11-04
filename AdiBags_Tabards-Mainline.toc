@@ -9,4 +9,4 @@
 ## X-Curse-Project-ID: 684835
 ## X-Wago-ID: pkNMa0Nz
 
-AdiBags_Tabards-Mainline.lua
+AdiBags_Tabards.lua
