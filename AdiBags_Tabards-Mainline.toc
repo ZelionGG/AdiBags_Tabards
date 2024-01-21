@@ -1,9 +1,9 @@
-## Interface: 100200
-## X-Interface: 100200
+## Interface: 100205
+## X-Interface: 100205
 ## Title: AdiBags - Tabards
 ## Notes: Adds a Tabards section to AdiBags.
 ## Author: ZelionGG
-## Version: 1.3.1
+## Version: 1.3.11
 ## Notes: https://github.com/ZelionGG/AdiBags_Tabards
 ## Dependencies: AdiBags
 ## X-Curse-Project-ID: 684835
